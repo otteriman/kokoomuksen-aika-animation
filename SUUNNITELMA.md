@@ -236,7 +236,17 @@ Pieni teksti: *10 vaalikaudesta 8.*
 
 ### Kohtaus 4 – Vertailu (0:37–0:43)
 
-Vaakapalkit kasvavat yksi kerrallaan, kokoomus viimeisenä ja pisimpänä.
+**Toteutettu pylväskaaviona, ei piirakkana.** Piirakka sopii huonosti, koska
+jokaisena vuonna on kaksi salkkua (yhteensä 80 salkkuvuotta), jolloin
+kokoomuksen siivu olisi 40 %, eikä se kerro samaa kuin "32 vuotta 40:stä".
+Pylväässä jokainen puolue saa oman 40 vuoden raidan, johon täyttyy sen vuosien
+määrä.
+
+Siirtymä: koko 40 vuoden jana *kutistuu*, kun oppositioaukot sulkeutuvat, ja
+kokoomuksen siniset kaudet liukuvat yhteen 32 vuoden pylvääksi. Sen alle
+kasvavat harmaina SDP:n, keskustan ja perussuomalaisten pylväät. Jokainen
+pylvään lohko on yksi vaalikausi (4 v). Pylvään alla on erittely
+pääministeri- ja valtiovarainministerivuosista.
 
 > **Pääministerin tai valtiovarainministerin salkku 1987–2027**
 >

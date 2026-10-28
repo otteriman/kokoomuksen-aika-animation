@@ -1,0 +1,23 @@
+{
+  "name": "kokoomuksen-aika-animation",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render Main-9x16 out/kokoomuksen-aika-9x16.mp4",
+    "still": "remotion still Main-9x16 out/still.png",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "@remotion/fonts": "4.0.539",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.539"
+  },
+  "devDependencies": {
+    "@fontsource/inter": "5.3.0",
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
