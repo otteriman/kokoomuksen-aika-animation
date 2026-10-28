@@ -262,38 +262,38 @@ Sen jälkeen kaavio häivytetään, ja tyhjälle ruudulle tulee yksinään:
 Vaihtoehtoinen tai lisärivi: *"Valtiovarainministeriö: kokoomuksen johdossa 20
 vuotta 40:stä."*
 
-### Kohtaus 5 – Valta on vastuuta (0:43–0:48), valinnainen
+### Kohtaus 5 – Kysymys (0:46–0:57)
 
-Vaihtoehto A, ilman lukuja (turvallisin):
+Tyhjälle ruudulle tulee ensin pienemmällä ja harmaalla:
 
-> **Eniten valtaa. Eniten vastuuta.**
->
-> Talouskasvusta. Julkisesta velasta.
+> Jos kokoomuksen lääkkeet toimisivat,
 
-Vaihtoehto B, luvuilla (vain tarkistetuilla luvuilla):
+Sen alle isolla, sana kerrallaan:
 
-> Julkinen velka 1987: **X %** BKT:sta → 2025: **Y %**
-> Talous asukasta kohden: **vuoden 2008 tasolla**
+> **Miksi Suomen talous ei ole jo huippukunnossa?**
 
-Suositus on aloittaa vaihtoehdolla A.
+Lukuajan jälkeen muut sanat häviävät sumentuen. Jäljelle jäävät "Miksi" ja
+lauseen lopun kysymysmerkki, jotka liukuvat yhteen ruudun keskelle ja
+kasvavat isoksi:
 
-### Kohtaus 6 – Lopetus (0:48–0:55)
+> **Miksi?**
 
-Musiikki hiljenee. Tyhjä tumma ruutu.
+"Miksi?" jää ruutuun noin 3 s, minkä jälkeen se häivytetään.
 
-> **40 vuotta samaa reseptiä.**
+### Kohtaus 6 – Lopetus (0:57–1:05)
 
-Teksti häviää. Uusi rivi kirjoittuu hitaasti:
+> On aika kokeilla
 
-> **Olisiko jo aika kokeilla…**
+Noin 1,5 s tauko, sitten isommalla ja lihavoituna:
 
-Noin 1 s tauko, hiljaisuus. Sitten:
+> **jotain muuta.**
 
-> **…jotain muuta?**
+Viimeinen ruutu jää näkyviin. Vaihtoehtoja myöhemmin harkittaviksi:
+*Eduskuntavaalit 18.4.2027* alalaitaan (päivämäärä tarkistettava), vihreä
+"jotain muuta." tai Vihreiden logo (ks. kohta 6, loppuversiot).
 
-Viimeinen ruutu jää näkyviin noin 2 s. Pieni teksti alalaitaan:
-*Eduskuntavaalit 18.4.2027* (päivämäärä tarkistettava; vaalit pidetään
-huhtikuun kolmantena sunnuntaina).
+Aiemmin suunniteltu "valta = vastuu" -kohtaus ja velkaluvut jätettiin pois.
+Kysymys hoitaa saman asian väittämättä mitään, mikä pitäisi todistaa.
 
 ### Lähteet
 

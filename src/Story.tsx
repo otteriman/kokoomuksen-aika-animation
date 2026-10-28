@@ -17,6 +17,7 @@ import {
   KUTISTUS_KESTO,
   LOPPULAUSE_ALKU,
   PALKIT_ALKU,
+  STORY_KESTO,
   YHTEENVETO_ALKU,
   ZOOM_ALKU,
   ZOOM_KESTO,
@@ -446,7 +447,7 @@ export const Story: React.FC = () => {
             fontWeight: 800,
             lineHeight: 1.15,
             letterSpacing: "-0.02em",
-            opacity: esiin(frame, LOPPULAUSE_ALKU, 20),
+            opacity: esiin(frame, LOPPULAUSE_ALKU, 20) * (1 - esiin(frame, STORY_KESTO - 15, 15)),
             transform: `translateY(${(1 - vaihe(frame, LOPPULAUSE_ALKU, 20)) * 24}px)`,
           }}
         >

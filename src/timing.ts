@@ -30,7 +30,20 @@ export const KAAVIO_POIS = PALKIT_ALKU + 135;
 export const LOPPULAUSE_ALKU = KAAVIO_POIS + 15;
 export const STORY_KESTO = LOPPULAUSE_ALKU + 120;
 
-export const KOKONAISKESTO = HOOK_KESTO + STORY_KESTO;
+// Kysymys: "Jos kokoomuksen lääkkeet toimisivat, miksi…?" → "Miksi?"
+export const KYSYMYS = {
+  rivi1: 10,
+  rivi2: 45,
+  muutPois: 165,
+  kokoontuminen: 180,
+  kokoontumisKesto: 40,
+  pois: 300,
+  kesto: 320,
+};
+
+export const LOPETUS = { rivi1: 15, rivi2: 75, kesto: 240 };
+
+export const KOKONAISKESTO = HOOK_KESTO + STORY_KESTO + KYSYMYS.kesto + LOPETUS.kesto;
 
 /** Aikajanan vuosi (desimaaleina) annetulla Story-ruudulla. */
 export const vuosiRuudulla = (ruutu: number): number => {
