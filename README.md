@@ -14,7 +14,7 @@ Kohtaukset 1–4 on toteutettu (noin 46 s, 9:16):
 1. Koukku: "Kuka on pitänyt Suomen kassaa hallussaan viimeiset 40 vuotta?"
 2. Juokseva aikajana 1987 → 2027 milestone-kortteineen
 3. Koko jana kerralla: "32 vuotta 40:stä."
-4. Pylväsvertailu puolueittain ja "Millään muulla puolueella…"
+4. Pylväsvertailu puolueittain, jonka jälkeen omana näkymänään "Millään muulla puolueella…"
 
 ## Käyttö
 

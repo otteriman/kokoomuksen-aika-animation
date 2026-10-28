@@ -13,6 +13,7 @@ import {
   AJO_ALKU,
   KAUSIEN_AJAT,
   KUTISTUS_ALKU,
+  KAAVIO_POIS,
   KUTISTUS_KESTO,
   LOPPULAUSE_ALKU,
   PALKIT_ALKU,
@@ -26,7 +27,7 @@ import {
 // Asettelu 9:16 (1080×1920). Kolme tilaa: juokseva jana → koko jana → pylväskaavio.
 const AJO = { vasen: 100, ppy: 200, palkkiY: 1250, palkkiH: 18 };
 const KOKO = { x0: 100, ppy: 22, palkkiY: 1000, palkkiH: 28 };
-const KAAVIO = { riviY: [560, 770, 980, 1190], palkkiH: 56 };
+const KAAVIO = { otsikkoY: 460, riviY: [720, 930, 1140, 1350], palkkiH: 56 };
 const SAUMA = 4; // rako vaalikausien välissä
 const PM_TOLPPA = 470;
 const VM_TOLPPA = 320;
@@ -72,6 +73,7 @@ export const Story: React.FC = () => {
 
   return (
     <AbsoluteFill style={{ fontFamily: FONT, opacity: esiin(frame, 0, 12) }}>
+      <AbsoluteFill style={{ opacity: 1 - esiin(frame, KAAVIO_POIS, 15) }}>
       {/* Iso juokseva vuosiluku */}
       <div
         style={{
@@ -342,7 +344,7 @@ export const Story: React.FC = () => {
       </div>
 
       {/* Vertailu: pylväät puolueittain */}
-      <div style={{ ...teksti, left: KOKO.x0, top: 300, width: width - 2 * KOKO.x0, opacity: esiin(frame, KUTISTUS_ALKU + 20, 20) }}>
+      <div style={{ ...teksti, left: KOKO.x0, top: KAAVIO.otsikkoY, width: width - 2 * KOKO.x0, opacity: esiin(frame, KUTISTUS_ALKU + 20, 20) }}>
         <div style={{ fontSize: 50, fontWeight: 800, lineHeight: 1.1, letterSpacing: "-0.01em" }}>
           Pääministeri tai
           <br />
@@ -431,28 +433,26 @@ export const Story: React.FC = () => {
         );
       })}
 
-      <div
-        style={{
-          ...teksti,
-          left: 90,
-          width: width - 180,
-          top: 1400,
-          textAlign: "center",
-          fontSize: 50,
-          fontWeight: 800,
-          lineHeight: 1.2,
-          letterSpacing: "-0.01em",
-          opacity: esiin(frame, LOPPULAUSE_ALKU, 20),
-          transform: `translateY(${(1 - vaihe(frame, LOPPULAUSE_ALKU, 20)) * 20}px)`,
-        }}
-      >
-        Millään muulla puolueella ei ole ollut yhtä paljon valtaa Suomen julkiseen talouteen.
-      </div>
+      </AbsoluteFill>
 
-      {/* Lähde */}
-      <div style={{ ...teksti, left: 0, width, top: 1650, textAlign: "center", fontSize: 24, fontWeight: 500, color: COLORS.textFaint }}>
-        Lähde: valtioneuvosto.fi – hallitukset ja ministerit
-      </div>
+      {/* Loppulause omana näkymänään kaavion jälkeen */}
+      <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", padding: "0 90px" }}>
+        <div
+          style={{
+            fontFamily: FONT,
+            color: COLORS.text,
+            textAlign: "center",
+            fontSize: 72,
+            fontWeight: 800,
+            lineHeight: 1.15,
+            letterSpacing: "-0.02em",
+            opacity: esiin(frame, LOPPULAUSE_ALKU, 20),
+            transform: `translateY(${(1 - vaihe(frame, LOPPULAUSE_ALKU, 20)) * 24}px)`,
+          }}
+        >
+          Millään muulla puolueella ei ole ollut yhtä paljon valtaa Suomen julkiseen talouteen.
+        </div>
+      </AbsoluteFill>
     </AbsoluteFill>
   );
 };

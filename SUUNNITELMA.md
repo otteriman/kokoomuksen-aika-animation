@@ -172,7 +172,6 @@ on videon ydin ja toimii myös still-kuvana ja thumbnailina.
 │                      │
 │  [32 / 40 v laskuri] │  ← kertyvä laskuri (valinnainen)
 │                      │
-│  Lähde: valtioneuvosto.fi │
 └──────────────────────┘
 ```
 
@@ -255,7 +254,7 @@ pääministeri- ja valtiovarainministerivuosista.
 > Keskusta █████████ 20 v
 > Perussuomalaiset ██ 4 v
 
-Sen jälkeen:
+Sen jälkeen kaavio häivytetään, ja tyhjälle ruudulle tulee yksinään:
 
 > **Millään muulla puolueella ei ole ollut yhtä paljon valtaa Suomen
 > julkiseen talouteen.**
@@ -271,7 +270,7 @@ Vaihtoehto A, ilman lukuja (turvallisin):
 >
 > Talouskasvusta. Julkisesta velasta.
 
-Vaihtoehto B, luvuilla (vain tarkistetuilla, lähde ruudulle):
+Vaihtoehto B, luvuilla (vain tarkistetuilla luvuilla):
 
 > Julkinen velka 1987: **X %** BKT:sta → 2025: **Y %**
 > Talous asukasta kohden: **vuoden 2008 tasolla**
@@ -296,12 +295,11 @@ Viimeinen ruutu jää näkyviin noin 2 s. Pieni teksti alalaitaan:
 *Eduskuntavaalit 18.4.2027* (päivämäärä tarkistettava; vaalit pidetään
 huhtikuun kolmantena sunnuntaina).
 
-### Lähdeteksti
+### Lähteet
 
-Lähdeteksti näkyy koko videon ajan pienellä alalaidassa tai omana 1,5 s
-ruutunaan lopussa:
-
-> Lähde: valtioneuvosto.fi, hallitukset ja ministerit 1987–2027.
+Lähteitä ei näytetä videossa, jotta ruudulla on kerrallaan vain yksi asia.
+Hallitusten kokoonpanot ovat julkista ja helposti tarkistettavaa tietoa.
+Lähde voidaan tarvittaessa mainita julkaisutekstissä.
 
 ### Puheosuus (valinnainen)
 
@@ -401,8 +399,8 @@ somealustojen rajoissa.
   vahvistus ja maksajatieto, ja EU:n poliittisen mainonnan
   läpinäkyvyysasetus on huomioitava. Orgaaninen jako ilman maksua on
   yksinkertaisempaa.
-- **Lähteet näkyviin:** lähdeteksti videossa ja linkki julkaisutekstissä
-  lisäävät uskottavuutta ja vaikeuttavat "valeuutinen"-leimaamista.
+- **Lähteet:** videossa ei ole lähdetekstiä. Lähdelinkki julkaisutekstissä
+  vastaa valmiiksi kysymykseen "mistä tämä on otettu?".
 - **Julkaisuteksti (ehdotus):** "Vuodesta 1987 kokoomus on pitänyt joko
   pääministerin tai valtiovarainministerin paikkaa 32 vuotta 40:stä. Yksikään
   toinen puolue ei ole ollut yhtä pitkään Suomen kassan ääressä. Lähde:
