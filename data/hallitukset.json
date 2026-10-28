@@ -1,0 +1,20 @@
+{
+  "_kuvaus": "Suomen hallitukset 1987–2027: pääministeri- ja valtiovarainministeripuolueet. Tarkistettava valtioneuvosto.fi:n ministerikortistosta ennen julkaisua.",
+  "_lahde": "https://valtioneuvosto.fi/tietoa/historiaa/hallitukset-ja-ministerit",
+  "hallitukset": [
+    { "nimi": "Holkeri",      "alku": "1987-04-30", "loppu": "1991-04-26", "pm": { "puolue": "KOK", "henkilot": ["Harri Holkeri"] },   "vm": { "puolue": "SDP",  "henkilot": ["Erkki Liikanen", "Matti Louekoski"] } },
+    { "nimi": "Aho",          "alku": "1991-04-26", "loppu": "1995-04-13", "pm": { "puolue": "KESK", "henkilot": ["Esko Aho"] },       "vm": { "puolue": "KOK",  "henkilot": ["Iiro Viinanen"] } },
+    { "nimi": "Lipponen I",   "alku": "1995-04-13", "loppu": "1999-04-15", "pm": { "puolue": "SDP",  "henkilot": ["Paavo Lipponen"] }, "vm": { "puolue": "KOK",  "henkilot": ["Iiro Viinanen", "Sauli Niinistö"] } },
+    { "nimi": "Lipponen II",  "alku": "1999-04-15", "loppu": "2003-04-17", "pm": { "puolue": "SDP",  "henkilot": ["Paavo Lipponen"] }, "vm": { "puolue": "KOK",  "henkilot": ["Sauli Niinistö"] } },
+    { "nimi": "Jäätteenmäki", "alku": "2003-04-17", "loppu": "2003-06-24", "pm": { "puolue": "KESK", "henkilot": ["Anneli Jäätteenmäki"] }, "vm": { "puolue": "SDP", "henkilot": ["Antti Kalliomäki"] } },
+    { "nimi": "Vanhanen I",   "alku": "2003-06-24", "loppu": "2007-04-19", "pm": { "puolue": "KESK", "henkilot": ["Matti Vanhanen"] }, "vm": { "puolue": "SDP",  "henkilot": ["Antti Kalliomäki", "Eero Heinäluoma"] } },
+    { "nimi": "Vanhanen II",  "alku": "2007-04-19", "loppu": "2010-06-22", "pm": { "puolue": "KESK", "henkilot": ["Matti Vanhanen"] }, "vm": { "puolue": "KOK",  "henkilot": ["Jyrki Katainen"] } },
+    { "nimi": "Kiviniemi",    "alku": "2010-06-22", "loppu": "2011-06-22", "pm": { "puolue": "KESK", "henkilot": ["Mari Kiviniemi"] }, "vm": { "puolue": "KOK",  "henkilot": ["Jyrki Katainen"] } },
+    { "nimi": "Katainen",     "alku": "2011-06-22", "loppu": "2014-06-24", "pm": { "puolue": "KOK",  "henkilot": ["Jyrki Katainen"] }, "vm": { "puolue": "SDP",  "henkilot": ["Jutta Urpilainen", "Antti Rinne"] } },
+    { "nimi": "Stubb",        "alku": "2014-06-24", "loppu": "2015-05-29", "pm": { "puolue": "KOK",  "henkilot": ["Alexander Stubb"] }, "vm": { "puolue": "SDP",  "henkilot": ["Antti Rinne"] } },
+    { "nimi": "Sipilä",       "alku": "2015-05-29", "loppu": "2019-06-06", "pm": { "puolue": "KESK", "henkilot": ["Juha Sipilä"] },    "vm": { "puolue": "KOK",  "henkilot": ["Alexander Stubb", "Petteri Orpo"] } },
+    { "nimi": "Rinne",        "alku": "2019-06-06", "loppu": "2019-12-10", "pm": { "puolue": "SDP",  "henkilot": ["Antti Rinne"] },    "vm": { "puolue": "KESK", "henkilot": ["Mika Lintilä"] } },
+    { "nimi": "Marin",        "alku": "2019-12-10", "loppu": "2023-06-20", "pm": { "puolue": "SDP",  "henkilot": ["Sanna Marin"] },    "vm": { "puolue": "KESK", "henkilot": ["Katri Kulmuni", "Matti Vanhanen", "Annika Saarikko"] } },
+    { "nimi": "Orpo",         "alku": "2023-06-20", "loppu": null,         "pm": { "puolue": "KOK",  "henkilot": ["Petteri Orpo"] },   "vm": { "puolue": "PS",   "henkilot": ["Riikka Purra"] } }
+  ]
+}
